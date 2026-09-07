@@ -2,6 +2,10 @@
 
 This is a small project I built to explore how AI can make everyday communication easier. It helps users turn a rough message into a clearer version based on the tone they choose.
 
+## Demo
+
+![AI Message Helper demo](images/app-demo.png)
+
 ## Features
 
 - Enter a rough message
