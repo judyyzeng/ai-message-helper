@@ -1,6 +1,6 @@
 # AI Message Helper
 
-This is a small project I built to practice using AI in a simple and practical way. It helps users rewrite a rough message into a clearer version based on the tone they choose.
+This is a small project I built to explore how AI can make everyday communication easier. It helps users turn a rough message into a clearer version based on the tone they choose.
 
 ## Features
 
